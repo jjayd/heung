@@ -1,0 +1,23 @@
+if has("syntax")
+    syntax on
+endif
+set backspace=indent,eol,start
+set autoindent
+set background=dark
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set bg=dark
+set nu
+set ruler
+set mouse=a
+set number        
+set ignorecase     
+set background=dark 
+set nocompatible 
+set history=1000 
+set title     
+set showmatch  
+set nowrap 
+set hlsearch
